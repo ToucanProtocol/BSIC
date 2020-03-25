@@ -2,7 +2,7 @@
 Blockchain for Social Impact Incubator Deliverables
 
 ### Week 1:
-[Scoping the Problem to Solve](Deliverable #1/Deliverable 1 — Scoping the Problem to Solve.md)
+[Scoping the Problem to Solve](./Deliverable\ #1/Deliverable\ 1\ —\ Scoping\ the\ Problem\ to\ Solve.md)
 
 ### Week 2:
 
