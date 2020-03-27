@@ -47,3 +47,27 @@ For the prototype we have built the following elements:
 
 
 ## MVP Testing Approach
+
+Based on our **user persona** research (figure below), we have identified *Dani* as the core customer we want to reach with our *MVP*. 
+
+![User Persona](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/User%20Persona.jpg)
+
+Since our project involves a lot of stakeholders which are not necessarily supplier or customer we've made a stakeholder map to have a better overview:
+
+![Stakeholder Map](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/Stakeholder%20Map.jpg)
+
+We then looked at the **Business Model Canvas** for *Phase 0: MVP*:
+
+![User Persona](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/MVP%20Business%20Model%20Canvas.jpg)
+
+We then formulated 3 tests to validate the success of our MVP:
+1. *Are people interested in buying tokenized carbon offsets?*  
+    **Validation:** 40 users (like *Dani*) buy CO2kens via our UI.
+
+2. *Are investors interested in founding this project?*  
+    **Validation:** 1 fund reaching out (unsolicited) with the objective to invest.
+    
+3. *Are carbon offset projects interested in joinging a CarbonDAO?*  
+    **Validation:** contact 10 projects with at least 3 positive replies.
+
+![MVP Testing Approach](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/MVP%20Testing%20Approach.jpg)
