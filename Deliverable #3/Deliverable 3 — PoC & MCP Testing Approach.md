@@ -29,7 +29,7 @@ For the prototype we have built the following elements:
         * The custom Alchemy UI can be found [here](https://github.com/CO2ken/alchemy)
     
 2. **The Smart Contracts**
-    * All contracts can be found in [this folger](https://github.com/CO2ken/CO2ken/tree/master/Contracts)
+    * All contracts can be found in [this folder](https://github.com/CO2ken/CO2ken/tree/master/Contracts)
     * The `co2ken.sol` contract is the main token contract
     * The `green.sol` contract contains the Solidity modifier which allows other contracts to automatically offset their emissions
     * The `co2kenData.sol` contract is a data storage contract accessed by the other two contracts above
