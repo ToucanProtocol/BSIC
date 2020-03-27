@@ -53,7 +53,7 @@ Based on our **user persona** research (figure below), we have identified *Dani*
 
 ![User Persona](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/User%20Persona.jpg)
 
-Since our project involves a lot of stakeholders which are not necessarily supplier or customer we've made a stakeholder map to have a better overview:
+Since our project involves a lot of stakeholders which are not necessarily suppliers or customers, we've made a stakeholder map to have a better overview:
 
 ![Stakeholder Map](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/Stakeholder%20Map.jpg)
 
