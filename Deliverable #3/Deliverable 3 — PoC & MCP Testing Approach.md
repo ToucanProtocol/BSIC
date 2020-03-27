@@ -68,7 +68,7 @@ We then formulated 3 tests to validate the success of our MVP:
 2. *Are investors interested in founding this project?*  
     **Validation:** 1 fund reaching out (unsolicited) with the objective to invest.
 
-3. *Are carbon offset projects interested in joinging a CarbonDAO?*  
+3. *Are carbon offset projects interested in joining a CarbonDAO?*  
     **Validation:** contact 10 projects with at least 3 positive replies.
 
 ![MVP Testing Approach](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/MVP%20Testing%20Approach.jpg)
