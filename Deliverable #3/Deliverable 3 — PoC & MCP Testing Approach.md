@@ -13,7 +13,7 @@
 
 ## Prototype
 ### Project architecture
-The figure below shows the architecture of the project. For a detailed description of the project and the architecture please refer to this [Medium post](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1)
+The figure below shows the architecture of the project. For a detailed description and an overall project overview please refer to this [Medium post](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1).
 
 ![Architecture](https://github.com/CO2ken/CO2ken/blob/master/Presentation/Illustrations/DAO2architecture6.png)
 
@@ -46,3 +46,4 @@ For the prototype we have built the following elements:
 
 
 
+## MVP Testing Approach
