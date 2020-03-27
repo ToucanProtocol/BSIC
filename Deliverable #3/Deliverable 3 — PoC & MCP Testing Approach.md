@@ -14,7 +14,7 @@
 
 ## Prototype
 ### Project architecture
-The figure below shows the architecture of the project. For a detailed description and an overall project overview please refer to this [Medium post](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1) and [this PDF](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/Architecutre%20overview.pdf).
+The figure below shows the architecture of the project. For a detailed description and an overall project overview please refer to this [Medium post](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1) and [this architectural overview PDF](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/Architecutre%20overview.pdf).
 
 ![Architecture](https://github.com/CO2ken/CO2ken/blob/master/Presentation/Illustrations/DAO2architecture6.png)
 
