@@ -71,4 +71,6 @@ We then formulated 3 tests to validate the success of our MVP:
 3. *Are carbon offset projects interested in joining a CarbonDAO?*  
     **Validation:** contact 10 projects with at least 3 positive replies.
 
+We further use Google Analytics to analyze the user's interaction with our UI.
+
 ![MVP Testing Approach](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%233/MVP%20Testing%20Approach.jpg)
