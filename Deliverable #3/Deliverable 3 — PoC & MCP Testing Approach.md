@@ -11,6 +11,8 @@
 > * Prototype /proof-of-concept uploaded
 > * Document defining your MVP testing approach  
 
+* * * 
+
 ## Prototype
 ### Project architecture
 The figure below shows the architecture of the project. For a detailed description and an overall project overview please refer to this [Medium post](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1).
@@ -44,7 +46,7 @@ For the prototype we have built the following elements:
     * We've deployed a simple web3 app called *Polluter* to demonstrate the functionality of the Solidity modifier. It can be found at https://polluter.co2ken.io/
     * The code for the polluter page can be found [here](https://github.com/CO2ken/demo-frontend/tree/master/polluter)
 
-
+* * *
 
 ## MVP Testing Approach
 
@@ -66,7 +68,7 @@ We then formulated 3 tests to validate the success of our MVP:
 
 2. *Are investors interested in founding this project?*  
     **Validation:** 1 fund reaching out (unsolicited) with the objective to invest.
-    
+
 3. *Are carbon offset projects interested in joinging a CarbonDAO?*  
     **Validation:** contact 10 projects with at least 3 positive replies.
 
