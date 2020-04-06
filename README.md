@@ -1,5 +1,6 @@
-# BSCI
-**Blockchain for Social Impact Incubator Deliverables** 
+# BSIC
+
+## Blockchain for Social Impact Incubator Deliverables
 
 * **Week 1:** [Deliverable 1: Scoping the Problem to Solve](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%231/Deliverable%201%20%E2%80%94%20Scoping%20the%20Problem%20to%20Solve.md)
 * **Week 2:** [Deliverable 2: User Persona, Pain Points & User Story](https://github.com/CO2ken/BSCI/blob/master/Deliverable%20%232/Deliverable%202%20%E2%80%94%20User%20Persona%2C%20Pain%20Points%2C%20User%20Story.md)
