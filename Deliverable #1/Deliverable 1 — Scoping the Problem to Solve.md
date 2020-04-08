@@ -39,6 +39,14 @@ decentralized, immutable, verifiable ledger.
 
 ### **Problem:** Intermediaries in the value chain all take a slice for profit
 
+The USDA Office of Environmental Markets provided this illustration of
+the typical cost structure associated with getting a credit to market:
+
+![Costs in a hypothetical carbon project](carbon-project-costs.png)
+
+[source: ["Transaction Costs in Carbon Offset
+Markets", 2016](https://www.c-agg.org/wp-content/uploads/Zook_C-AGG_Presentation_March_8.pdf)]
+
 **Solution:** Blockchain reduces the number of middle-men.
 
 ### **Problem:** Carbon markets are fragmented
