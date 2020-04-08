@@ -2,9 +2,16 @@
 
 ## Who are your constituents/clients/users?
 
+Initially we target the voluntary emission reduction (VER) market, but
+can potentially expand this to the compliance-driven side of the market
+later.
+
+Our target users are:
+
 - **Businesses** which directly cause and/or indirectly facilitate CO2
-  emissions, and wish to offset in order to hit climate targets,
-  achieve tax rebates, and improve their public image
+  emissions, and wish to offset in order to adhere to corporate values,
+  improve their public image, and ultimately hit climate targets and
+  achieve tax rebates.
 
 - **Public sector organisations** which directly or indirectly cause
   CO2 emissions, and are under pressure from their governments who are
@@ -33,7 +40,7 @@
 
 ## What are their pain points?
 
-- **Businesses** are struggling to:
+- **Public sector organisations and **businesses** are struggling to:
 
   - maximise the "bang for buck" of their carbon offsetting budgets,
     by avoiding expensive offsets in which many intermediaries take
@@ -49,8 +56,6 @@
     so that their customers can in turn easily perform offsetting
 
   - ensure that all these offsets go to trustworthy offset projects
-
-- **Public sector organisations**
 
 - **Individuals**
 
@@ -142,21 +147,45 @@ We have several very clear metrics of success:
   via our Carbon DAO.  This measures how much additional *demand*
   for offsetting our platform is incentivising.
 
-- Number of CO2kens burned.  This measures the net figure of emissions
+- Number of CO2kens retired.  This measures the net figure of emissions
   offset through the platform.
 
 - Number of DAO members.  This measures engagement and confidence on
   the investor / supply side of the platform.
 
-- Number of users of the offsetting smart contract
+- Number of users of the offsetting smart contract.  This measures
+  engagement on the demand side of the platform.
 
 ## Define the technical specifications and development roadmap
 
 ### Technical specifications
 
-Our platform is fully based on Ethereum.  All our code is [on
+Our platform is fully based on Ethereum (currently only on [the
+Rinkeby testnet](https://rinkeby.etherscan.io/)).  All our code is [on
 GitHub](https://github.com/CO2ken/).
 
-smart
+Our [Carbon DAO](http://dao.co2ken.io/) is built on top of
+[DAOstack](https://daostack.io/).  To achieve this, we extended
+DAOstack with a new CO2ken plugin which is [already merged into the
+upstream DAOstack
+codebase](https://github.com/daostack/alchemy/pull/1547).
+
+Our [smart
+contracts](https://github.com/CO2ken/CO2ken/tree/master/Contracts) are
+written in Solidity.
+
+Our [demonstration frontend](https://www.co2ken.io/) was coded using a
+combination of [Webflow](https://webflow.com/),
+[DappHero](https://www.dapphero.io/), jQuery, and our [`eth-co2.js`
+JavaScript library](https://www.npmjs.com/package/eth-co2) which is
+based on [`ethers.js`](https://docs.ethers.io/ethers.js/html/).
+
+Our [offsetting leaderboard](https://www.co2ken.io/leaderboard) also
+uses [Webflow](https://webflow.com/),
+[DappHero](https://www.dapphero.io/), jQuery, and additionally uses a
+[dedicated CO2ken
+subgraph](https://thegraph.com/explorer/subgraph/benesjan/co2ken) on
+[TheGraph.com](https://thegraph.com/) to extract historical offsetting
+data and display totals per user.
 
 ### Development roadmap
