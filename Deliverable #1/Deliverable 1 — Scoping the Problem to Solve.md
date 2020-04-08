@@ -28,12 +28,6 @@ technology.
 Blockchain (in this case specifically *public* blockchain) helps solve
 the following challenges in carbon offsetting:
 
-| *Problem* | *Solution* |
-|-|-|
-| **Reliability**: The current carbon offsetting value chain is opaque, so there is a high risk of offsets being counted twice. | Blockchain technology was designed specifically to solve the "double spend" problem, by providing a public, transparent, decentralized, immutable, verifiable ledger. |
-| **Intermediaries** in the value chain all take a slice for profit | Blockchain reduces the number of middle-men. |
-| **Carbon markets are fragmented** | Blockchain provides a common platform / level playing field owned by nobody/everybody.  It provides a platform on which products can be built way faster than governments are typically capable, without ruling out the possibility of both the public and private sectors converging onto the same platform whenever they are ready. <p> Blockchain also enables *composability*: permissionless building of / integrating with other systems.  The benefits of this freedom have already been demonstrated by the sudden explosion of creativity and products in the DeFi space. </p> |
-
 ### **Problem:** Reliability
 
 The current carbon offsetting value chain is opaque, so there is a
@@ -82,7 +76,11 @@ Demand for quality offsets is currently outstripping supply.
 
 ### Encumbents
 
+*FIXME*
+
 ### Blockchain-based solutions
+
+*FIXME*
 
 | Description | Competitive analysis |
 |-|-|
@@ -93,6 +91,9 @@ Demand for quality offsets is currently outstripping supply.
 | Spark Change |   |
 |  |   |
 https://www.climateledger.org/
+
+[Veridium](https://www.veridium.io/) are [working with
+IBM](https://www.technologyreview.com/s/611670/blockchain-explainer-tokenizing-carbon-credits/).
 
 ## What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
 
