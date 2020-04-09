@@ -102,7 +102,9 @@ key problems which plague the traditional carbon offsetting industry:
 
 ## What is your distribution and go-to-market strategy? Who can you partner with?
 
-FIXME
+Please see this mindmap:
+
+![](GTM.png)
 
 ## What are the risks associated with your solution?
 
