@@ -133,7 +133,7 @@ We haven't been able to carry out a full competitive analysis yet. However, thes
 |-|-|
 | Carbon Offset Initiative |   |
 | AirCarbon |   |
-| Nori | Building a compoletely new asset class: tokenized soil carbon  |
+| Nori | Building a completely new asset class: tokenized soil carbon  |
 | DAO IPCI |   |
 | Spark Change |   |
 | [Climate Ledger](https://www.climateledger.org/) |   |
