@@ -1,6 +1,21 @@
 # Deliverable week 1: scoping the problem to solve
 
+## Vision
+Carbon-neutral economy by 2040.
+
+## Our Value proposition
+The decentralized, open & transaprent carbon accounting ecosystem needed to achieve this vision.
+
 ## Problem statement
+
+Big picture: Carbon markets are not sufficiently effective to tackle the climate crisis fast enough.
+
+Three underlying problems:
+1. Carbon markets are fragmented, intransparent and prone to double counting
+2. Carbon offsets are hot air & intermediaries take a big cut of the pie
+3. Governments—who should put the policies in place to tackle these problems—are incapable of providing the open & transparent accounting infrastructure we need to solve these problems.
+
+### Context
 
 Currently, the global capacity for CO2 removal is on the order of
 10–1,000 kilotonnes CO2/year.  To limit global median warming to 1.5°C
@@ -8,9 +23,6 @@ above pre-industrial levels, a 1,000-100,000x increase in negative
 emission capacity is needed within 30 years (as outlined by the IPCC
 and other bodies).  [We have to sequester >1,5 trillion tonnes of CO2
 in order to revert to 300 ppm in the atmosphere.](https://nori.com/white-paper)
-
-CO2ken aims to solve the trust problem along the carbon offset value
-chain.
 
 [Carbon offsetting requires 4 factors in order to be
 effective](http://www.greeninvestmentservices.com/carbon-offsets/key-principles-of-vers):
@@ -30,24 +42,12 @@ the following challenges in carbon offsetting:
 
 ### **Problem:** Reliability
 
-The current carbon offsetting value chain is opaque, so there is a
+Current carbon markets are opaque and ineffiecient, so there is a
 high risk of offsets being counted twice.
 
 **Solution:** Blockchain technology was designed specifically to solve
 the "double spend" problem, by providing a public, transparent,
 decentralized, immutable, verifiable ledger.
-
-### **Problem:** Intermediaries in the value chain all take a slice for profit
-
-The USDA Office of Environmental Markets provided this illustration of
-the typical cost structure associated with getting a credit to market:
-
-![Costs in a hypothetical carbon project](carbon-project-costs.png)
-
-[source: ["Transaction Costs in Carbon Offset
-Markets", 2016](https://www.c-agg.org/wp-content/uploads/Zook_C-AGG_Presentation_March_8.pdf)]
-
-**Solution:** Blockchain reduces the number of middle-men.
 
 ### **Problem:** Carbon markets are fragmented
 
@@ -63,6 +63,34 @@ integrating with other systems.  The benefits of this freedom have
 already been demonstrated by the sudden explosion of creativity and
 products in the DeFi space.
 
+### **Problem:** Intermediaries in the value chain all take a slice for profit
+
+The USDA Office of Environmental Markets provided this illustration of
+the typical cost structure associated with getting a credit to market:
+
+![Costs in a hypothetical carbon project](carbon-project-costs.png)
+
+[source: ["Transaction Costs in Carbon Offset
+Markets", 2016](https://www.c-agg.org/wp-content/uploads/Zook_C-AGG_Presentation_March_8.pdf)]
+
+**Solution:** Blockchain reduces the number of middle-men.
+
+### **Problem:** Governments are incapable of providing the global carbon accounting infrastructure
+
+**Solution:** An open ecosystem. Like DeFi for carbon accounting: DeCA.
+DeFi has seen massive growth in these last 12 months.
+A (non-exhaustive) list of the reasons for its success are:
+* composability & modularity
+* high liquidity
+* unlocking new markets
+* open standards & development
+* programmability & automation
+* transparency
+
+We think that tokenized carbon offsets will unlock the locked potential in current carbon markets—just like DAI unlocked DeFi.
+The characteristics of decentralized and open systems give them an almost unfair advantage over centralized systems.
+
+
 ### What demographics do you serve? What is the size of the market?
 
 We believe that climate change is the first challenge which can only
@@ -73,35 +101,45 @@ The global value of carbon pricing schemes was $82bn in 2017, [a 56%
 increase on the previous
 year](http://www.climateaction.org/news/global-carbon-market-increases-by-56-in-one-year-says-world-bank).
 
-In 2018, [the voluntary emission reduction (VER) market offset
+The size of the global compliance market in 2018 was [$57B](https://icapcarbonaction.com/en/?option=com_attach&task=download&id=625).
+However, this market has high barriers to entry due to stronger regulation.
+This is why we focus on the voluntary carbon market first.
+
+In 2018, [the voluntary market offset
 approximately 100 megatonnes of CO2 (volume)](https://www.ecosystemmarketplace.com/articles/voluntary-carbon-volume-hits-seven-year-high-on-demand-for-natural-climate-solutions/).
 At $3 per offset this corresponds to a market value of $300M, and a
 52.6% increase over 2016.
 
-Demand for quality offsets is currently outstripping supply.
+From talking to other players in the market (Nori, Southpole, Atmosfair, ...) demand for quality offsets is currently outstripping supply.
 
 ## What other solutions are currently being used to address this problem (other companies, workarounds, systems or processes that can compete with or substitute your product)
 
+We haven't been able to carry out a full competitive analysis yet. However, these are our hypotheses:
+
+*  Current players in the voluntary market like Verra & GoldStandard hold the majority of the market. They are providing the trust-layer of current offsets. Since they are in this "monopoly-like" position, they take big cuts. We think blockchain technology can replace those entities because it's more efficient at providing trust.
+* New players like Nori, Project Wren, Panchama, Regen Network are all solving specific problems along the carbon offset value chain. Our open DeCA ecosystem aims to integrate all of them. Only togehter can we solve this crisis fast enough.
+
+
 ### Encumbents
 
-*FIXME*
+| Description | Competitive analysis |
+|-|-|
+| Verra | currently 60% of voluntary carbon market |
+| ... | ... |
 
 ### Blockchain-based solutions
-
-*FIXME*
 
 | Description | Competitive analysis |
 |-|-|
 | Carbon Offset Initiative |   |
 | AirCarbon |   |
-| Nori | Building new asset class  |
+| Nori | Building a compoletely new asset class: tokenized soil carbon  |
 | DAO IPCI |   |
 | Spark Change |   |
-|  |   |
-https://www.climateledger.org/
+| [Climate Ledger](https://www.climateledger.org/) |   |
+| [Veridium](https://www.veridium.io/) are [working with
+IBM](https://www.technologyreview.com/s/611670/blockchain-explainer-tokenizing-carbon-credits/) |   |
 
-[Veridium](https://www.veridium.io/) are [working with
-IBM](https://www.technologyreview.com/s/611670/blockchain-explainer-tokenizing-carbon-credits/).
 
 ## What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
 
