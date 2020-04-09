@@ -137,8 +137,7 @@ We haven't been able to carry out a full competitive analysis yet. However, thes
 | DAO IPCI |   |
 | Spark Change |   |
 | [Climate Ledger](https://www.climateledger.org/) |   |
-| [Veridium](https://www.veridium.io/) are [working with
-IBM](https://www.technologyreview.com/s/611670/blockchain-explainer-tokenizing-carbon-credits/) |   |
+| [Veridium](https://www.veridium.io/) are [working with IBM](https://www.technologyreview.com/s/611670/blockchain-explainer-tokenizing-carbon-credits/) |   |
 
 
 ## What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
