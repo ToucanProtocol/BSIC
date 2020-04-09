@@ -189,3 +189,6 @@ subgraph](https://thegraph.com/explorer/subgraph/benesjan/co2ken) on
 data and display totals per user.
 
 ### Development roadmap
+
+Please see [our full product roadmap](https://www.notion.so/Product-Roadmap-739a7e599c80400d9a8dcb96f935fe64).
+
