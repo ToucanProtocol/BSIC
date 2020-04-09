@@ -8,4 +8,7 @@ Here is [the final version of the pitch deck](https://github.com/CO2ken/BSIC/raw
 
 - Carbon Footprint
 - The Graph
+  – https://www.co2ken.io/leaderboard (the UI using the The Graph)
+  – https://thegraph.com/explorer/subgraph/benesjan/co2ken (the CO2ken subgraph)
+  – https://github.com/CO2ken/CO2ken/tree/master/Graph (dedicated folder in GitHub repository)
 - Pepo
