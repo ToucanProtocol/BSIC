@@ -12,6 +12,7 @@
 ## List of Resources
 
 * [Pitch Deck](https://github.com/CO2ken/BSIC/raw/master/Final%20Submission/BSIC%20Pitch%20Deck.pdf)
+* [Demo video](https://youtu.be/r7oeNbfVQ78)
 * [CO2ken dApp / UI](https://www.co2ken.io/)
 * [CO2ken Leaderboard](https://www.co2ken.io/leaderboard) using The Graph Protocol
 * [CO2ken subgraph](https://thegraph.com/explorer/subgraph/benesjan/co2ken)
